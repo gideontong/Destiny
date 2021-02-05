@@ -19,7 +19,6 @@ return (
       </Link>
     ) : (
       ''
-      // <img src={image} alt="moviethumb" />
     )}
   </StyledPetImage>
 )
